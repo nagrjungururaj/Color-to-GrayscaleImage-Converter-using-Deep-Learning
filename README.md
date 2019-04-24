@@ -1,5 +1,5 @@
 # Grayscale-to-Color-Image-Converter-using-Deep-Learning
-Input/s : Color image/s or RGB images
+Input/s : Color image/s or RGB images ; 
 Ouput/s : Grayscale image/s of single intensity channel
 
 Motivation of Approach : 
